@@ -26,6 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CORS bug on GOOGLE’s 404 page  REWARDED!!!](https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b?source=rss-32f1b6053ca2------2)
+- [WhatsApp Profile Photo Leakage Bug](https://medium.com/@jayateerthag/whatsapp-profile-photo-leakage-bug-a32f68062b32?source=rss-32f1b6053ca2------2)
+- [GOOGLE REFERER LEAK BUG](https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66?source=rss-32f1b6053ca2------2)
+- [Multiple xss in *.skype.com (2)](https://medium.com/@jayateerthag/multiple-xss-in-skype-com-2-18cfed39edbd?source=rss-32f1b6053ca2------2)
+- [Multiple xss in *.skype.com](https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24?source=rss-32f1b6053ca2------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 <h3 align="center">Connect with me:</h3>
