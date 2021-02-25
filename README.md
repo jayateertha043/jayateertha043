@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jira Auth Bypass bug in Google Acquisition (Apigee)](https://medium.com/@jayateerthag/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99?source=rss-32f1b6053ca2------2)
 - [Grafana Admin Panel bypass in Google Acquisition(VirusTotal)](https://medium.com/@jayateerthag/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae?source=rss-32f1b6053ca2------2)
 - [Download Filename Manipulation due to improper rendering of RTLO characters](https://medium.com/@jayateerthag/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28?source=rss-32f1b6053ca2------2)
 - [CORS bug on GOOGLE’s 404 page  REWARDED!!!](https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b?source=rss-32f1b6053ca2------2)
 - [WhatsApp Profile Photo Leakage Bug](https://medium.com/@jayateerthag/whatsapp-profile-photo-leakage-bug-a32f68062b32?source=rss-32f1b6053ca2------2)
-- [GOOGLE REFERER LEAK BUG](https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66?source=rss-32f1b6053ca2------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 <h3 align="center">Connect with me:</h3>
