@@ -10,7 +10,7 @@
 </p>
 
 
-- 👨‍💻 My Portfolio of projects and achievements [https://jayateerthag.in/portfolio.html](https://jayateerthag.in/portfolio.html)
+- 👨‍💻 My Portfolio of projects and achievements [https://jayateerthag.in/portfolio](https://jayateerthag.in/portfolio)
 
 - 📝 I regulary write articles on [https://medium.com/@jayateerthag](https://medium.com/@jayateerthag)
 
