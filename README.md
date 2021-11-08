@@ -26,8 +26,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Jira Auth Bypass bug in Google Acquisition (Apigee)](https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99?source=rss-32f1b6053ca2------2)
-- [Grafana Admin Panel bypass in Google Acquisition(VirusTotal)](https://infosecwriteups.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae?source=rss-32f1b6053ca2------2)
+- [Jira Auth Bypass bug in Google Acquisition &lpar;Apigee&rpar;](https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99?source=rss-32f1b6053ca2------2)
+- [Grafana Admin Panel bypass in Google Acquisition&lpar;VirusTotal&rpar;](https://infosecwriteups.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae?source=rss-32f1b6053ca2------2)
 - [Download Filename Manipulation due to improper rendering of RTLO characters](https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28?source=rss-32f1b6053ca2------2)
 - [CORS bug on GOOGLE’s 404 page  REWARDED!!!](https://jayateerthag.medium.com/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b?source=rss-32f1b6053ca2------2)
 - [WhatsApp Profile Photo Leakage Bug](https://jayateerthag.medium.com/whatsapp-profile-photo-leakage-bug-a32f68062b32?source=rss-32f1b6053ca2------2)
