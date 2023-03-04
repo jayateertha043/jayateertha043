@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/jayateertha043/jayateertha043/main/header.png"></p>
 
-<h3 align="center">Developer by ☀️, Security Researcher by 🌑</h3>
+<h3 align="center">I get paid (💰) for breaking things (💻) !</h3>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=jayateertha043&label=Profile%20views&color=0e75b6&style=flat" alt="jayateertha043" /> 
