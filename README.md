@@ -41,20 +41,26 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/jayateertha043/Namma-Meet/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=Namma-Meet&theme=algolia" />
+<a href="https://github.com/jayateertha043/WebDirScan/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=WebDirScan&theme=algolia" />
 </a>
 
-<a href="https://github.com/jayateertha043/Decentralized-Medical-Records/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=Decentralized-Medical-Records&theme=algolia" />
+<a href="https://github.com/jayateertha043/apksec/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=apksec&theme=algolia" />
 </a>
 
 <a href="https://github.com/jayateertha043/FireOver/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=FireOver&theme=algolia" />
 </a>
 
-<a href="https://github.com/jayateertha043/ISSTRACKER-CP/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=ISSTRACKER-CP&theme=algolia" />
+<a href="https://github.com/jayateertha043/garuda/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=garuda&theme=algolia" />
+</a>
+<a href="https://github.com/jayateertha043/goshod/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=goshod&theme=algolia" />
+</a>
+<a href="https://github.com/jayateertha043/WinDllInjector/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayateertha043&repo=WinDllInjector&theme=algolia" />
 </a>
 </p>
 <p>&nbsp;</p>
