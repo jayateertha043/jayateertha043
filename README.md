@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Jira Auth Bypass bug in Google Acquisition &lpar;Apigee&rpar;](https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99?source=rss-32f1b6053ca2------2)
-- [Grafana Admin Panel bypass in Google Acquisition&lpar;VirusTotal&rpar;](https://infosecwriteups.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae?source=rss-32f1b6053ca2------2)
-- [Download Filename Manipulation due to improper rendering of RTLO characters](https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28?source=rss-32f1b6053ca2------2)
-- [CORS bug on GOOGLE’s 404 page  REWARDED!!!](https://jayateerthag.medium.com/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b?source=rss-32f1b6053ca2------2)
-- [WhatsApp Profile Photo Leakage Bug](https://jayateerthag.medium.com/whatsapp-profile-photo-leakage-bug-a32f68062b32?source=rss-32f1b6053ca2------2)
+- [How Browser’s Save As Feature might lead to Code Execution &lpar;CVE-2022–45415&rpar;](https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692?source=rss-32f1b6053ca2------2)
+- [Bypass Duplicate Tweet Protection using negative tweet id](https://jayateerthag.medium.com/bypass-duplicate-tweet-protection-using-negative-tweet-id-71e6802955b4?source=rss-32f1b6053ca2------2)
+- [Blind SSRF in Skype &lpar;Microsoft&rpar;](https://infosecwriteups.com/blind-ssrf-in-skype-microsoft-6639f4961052?source=rss-32f1b6053ca2------2)
+- [Abusing Broken Link In Fitbit &lpar;Google Acquisition&rpar;To Collect BugBounty Reports On Behalf Of Google !](https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c?source=rss-32f1b6053ca2------2)
+- [2FA Bypass in PickMyCareer.in](https://jayateerthag.medium.com/2fa-bypass-in-pickmycareer-in-8abbde4c4903?source=rss-32f1b6053ca2------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
