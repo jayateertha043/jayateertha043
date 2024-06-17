@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OpManager: CSRF &amp; XS-Leak Chained for Information Disclosure](https://infosecwriteups.com/opmanager-csrf-xs-leak-chained-for-information-disclosure-382c6ee518ca?source=rss-32f1b6053ca2------2)
 - [JSON CSRF in Microsoft Bing Maps Collections](https://infosecwriteups.com/json-csrf-in-microsoft-bing-maps-collections-74afc2b197d5?source=rss-32f1b6053ca2------2)
 - [Intro to Fuzzing IoT Protocols using BooFuzz](https://infosecwriteups.com/intro-to-fuzzing-iot-protocols-using-boofuzz-02bab66454a7?source=rss-32f1b6053ca2------2)
 - [Torrent Trails: Unmasking Your Torrent Downloads with IP Address](https://infosecwriteups.com/how-i-could-get-anyone-arrested-knowing-their-ip-address-c2d7474b5d8c?source=rss-32f1b6053ca2------2)
 - [XS-Leak: Deanonymize Microsoft Skype Users by any 3rd-party website](https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8?source=rss-32f1b6053ca2------2)
-- [How Browser’s Save As Feature might lead to Code Execution &lpar;CVE-2022–45415&rpar;](https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692?source=rss-32f1b6053ca2------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
