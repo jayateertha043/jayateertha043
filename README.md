@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Injection to Data Exfiltration: Weaponizing CSS](https://infosecwriteups.com/html-injection-to-data-exfiltration-weaponizing-css-88ec1639a0cd?source=rss-32f1b6053ca2------2)
 - [Zoho QEngine: Arbitrary File Read](https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss-32f1b6053ca2------2)
 - [Exposing cybercrime.gov.in Phishing: The Browser-In-The-Browser Scam](https://infosecwriteups.com/exposing-cybercrime-gov-in-phishing-the-browser-in-the-browser-scam-0c0bad0a93d5?source=rss-32f1b6053ca2------2)
 - [Intro to Debugging Java Web Servers Without Source Code For Security Researchers](https://infosecwriteups.com/intro-to-debugging-java-web-servers-without-source-code-for-security-researchers-80ff00de4753?source=rss-32f1b6053ca2------2)
 - [OpManager: CSRF &amp; XS-Leak Chained for Information Disclosure](https://infosecwriteups.com/opmanager-csrf-xs-leak-chained-for-information-disclosure-382c6ee518ca?source=rss-32f1b6053ca2------2)
-- [JSON CSRF in Microsoft Bing Maps Collections](https://infosecwriteups.com/json-csrf-in-microsoft-bing-maps-collections-74afc2b197d5?source=rss-32f1b6053ca2------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
